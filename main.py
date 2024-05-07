@@ -10,7 +10,7 @@ st.set_page_config(page_title="Fire Detection")
 # Twilio credentials
 account_sid = 'AC48764857d34afd160798b5d871faa2ce'
 auth_token = '01162112483b4769d8acc0f6b46dcc98'
-twilio_number = '++12076721199'
+twilio_number = '+12076721199'
 
 
 current_datetime = datetime.now()
